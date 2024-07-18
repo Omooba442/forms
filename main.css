@@ -1,0 +1,58 @@
+.container{
+    background-color: red;
+}
+.first{
+    padding-left: 33%;
+}
+.text-blue{
+    color: blue;
+    font-size: 55px;
+    font-weight: 700px;
+
+}
+.text-black{
+    font-size: 27px;
+    font-weight: 400;
+    color: black;
+    line-height: 28px;
+}
+.card{
+    width: 36rem;
+}
+.form-control{
+    height: 52px;
+}
+.card{
+    box-shadow: 3px 0px 12px 13px rgb(0, 0, 0, 0.2);
+    margin-top: 60px;
+    
+}
+::placeholder{
+    padding-left: 3px;
+}
+.px-btn{
+    padding: 0 22px;
+}
+.form-select{
+    height: 52px;
+    
+}
+.btn-success{
+    width: 300px;
+   margin-bottom: 20px;
+   margin-left: 20%;
+}
+.btn-primary{
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    margin-top: 20px;
+   
+}
+.pxb-btn{
+    padding: 10px 22px;
+}
+.text-small{
+    font-size: 12px;
+    margin-left: 29%;
+}
